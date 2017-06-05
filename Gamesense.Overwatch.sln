@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazerInterceptor", "RazerInterceptor\RazerInterceptor.csproj", "{5F3CF34C-6993-436B-A5E8-FD06B86AAFB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gamesense.Overwatch", "Gamesense.Overwatch\Gamesense.Overwatch.csproj", "{5D82B49C-7C78-4894-AAF5-7087F64AD531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F3CF34C-6993-436B-A5E8-FD06B86AAFB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F3CF34C-6993-436B-A5E8-FD06B86AAFB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F3CF34C-6993-436B-A5E8-FD06B86AAFB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F3CF34C-6993-436B-A5E8-FD06B86AAFB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D82B49C-7C78-4894-AAF5-7087F64AD531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D82B49C-7C78-4894-AAF5-7087F64AD531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D82B49C-7C78-4894-AAF5-7087F64AD531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D82B49C-7C78-4894-AAF5-7087F64AD531}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
